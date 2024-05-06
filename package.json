@@ -1,0 +1,21 @@
+{
+  "name": "electron-desktop-application",
+  "productName": "JavaScript Desktop Application",
+  "version": "1.0.0",
+  "description": "This an desktop application which entirely used of intrnet network to display content and access of data from cloud database storage where there is no user's have own database to fetch and store data in the databases. the app is used when user is directly access to application for urgent work and timestamp",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electronmon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-al-fahad/JavaScript-Desktop-Application-by-Electron.git"
+  },
+  "author": "muhammad-al-fahad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/muhammad-al-fahad/JavaScript-Desktop-Application-by-Electron/issues"
+  },
+  "homepage": "https://github.com/muhammad-al-fahad/JavaScript-Desktop-Application-by-Electron#readme"
+}
